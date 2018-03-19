@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
+	"appid": "wx04fdfafbfdfd25ce",
 	"projectname": "mp-weui",
 	"condition": {
 		"search": {
